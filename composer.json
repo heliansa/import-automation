@@ -1,0 +1,8 @@
+{
+	"name" : "heliansa/import-automation",
+	"autoload" : {
+		"psr-4" : {
+			"Heliansa\\Automation\\Importer\\" : "src/Importer"
+		}
+	}
+}
